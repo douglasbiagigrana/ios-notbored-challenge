@@ -1,0 +1,6 @@
+framework module Pods_notbored {
+  umbrella header "Pods-notbored-umbrella.h"
+
+  export *
+  module * { export * }
+}
